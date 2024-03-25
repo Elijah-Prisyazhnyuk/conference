@@ -17,7 +17,7 @@
 
 ![Downloads](https://img.shields.io/github/downloads/Elijah-Prisyazhnyuk/сonference/total) ![Contributors](https://img.shields.io/github/contributors/Elijah-Prisyazhnyuk/сonference?color=dark-green) ![License](https://img.shields.io/github/license/Elijah-Prisyazhnyuk/сonference) 
 
-## Table Of Contents
+## Содержание
 
 * [О Конференции](#about-the-conference)
 * [Проблематика](#problema)
@@ -41,12 +41,26 @@
 <a name="problema"></a>
 ## Проблематика
 
+**Сегмент:** КАДС **Цех:** Коксовый
+
+**Проблема/ситуация:**
+В зимнее время, при температуре окружающей среды от -20С и ниже, при выдаче протушенного кокса на рампы 1 и 1а, во время выдержки с целью снижения физической влаги и устранения очагов горения кокса происходит его примерзание к плитке в районе краев рампы, рассекателей и затворов. Что привело к снижению объемов производства кокса в зимний период 2020-21гг – 3,99 тыс. тонн (22 млн руб.)
+
+**Задача команды:**
+Разработать мероприятия: 
+1) по исключению примерзания кокса к рампам 1 и 1а в зимний период;
+2) по минимизации возникновения риска потерь производства в следствии снижения ФРВ рамп;
+
 <a name="solution-1"></a>
 ## Решение 1
+**Мой вклад** - 3D модель, дизайн слайда
+![Screen Shot](images/solution-1.jpg)
 
 <a name="solution-1-modeling"></a>
 ### Решение 1 Моделирование
-
+**Мой вклад** - 3D модель, CFD-анализ, анимация, дизайн слайда
+![Screen Shot](images/solution-1-modeling.jpg)
+**анимация**
 <a name="solution-2"></a>
 ## Решение 2
 
