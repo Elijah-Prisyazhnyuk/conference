@@ -61,8 +61,10 @@
 **Мой вклад** - 3D модель, CFD-анализ, анимация, дизайн слайда
 ![Screen Shot](images/solution-1-modeling.jpg)
 **анимация**
-![Animation](images/1.gif)
+*1*
 ![Animation](images/2.gif)
+*2*
+![Animation](images/1.gif)
 
 <a name="solution-2"></a>
 ## Решение 2
