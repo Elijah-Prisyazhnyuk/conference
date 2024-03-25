@@ -61,25 +61,38 @@
 **Мой вклад** - 3D модель, CFD-анализ, анимация, дизайн слайда
 ![Screen Shot](images/solution-1-modeling.jpg)
 **анимация**
+![Animation](images/1.gif)
+![Animation](images/2.gif)
+
 <a name="solution-2"></a>
 ## Решение 2
+**Мой вклад** - 3D модель, дизайн слайда
+![Screen Shot](images/solution-2.jpg)
 
 <a name="solution-2-modeling"></a>
 ### Решение 2 Моделирование
+**Мой вклад** - 3D модель, Тепловой анализ, анимация, дизайн слайда
+![Screen Shot](images/solution-2-modeling.jpg)
+**анимация**
+![Animation](images/3.gif)
 
 <a name="solution-3"></a>
 ## Решение 3
+**Мой вклад** - 3D модель, дизайн слайда
+![Screen Shot](images/solution-3.jpg)
 
 <a name="solution-4"></a>
 ## Решение 4
+![Screen Shot](images/solution-4.jpg)
 
 <a name="solution-5"></a>
 ## Решение 5
+![Screen Shot](images/solution-5.jpg)
 
 <a name="authors"></a>
 ## Authors
 
-* **Elijah Pris** - *Comp Sci Student* - [Elijah Pris](https://github.com/ShaanCoding/) - *Презентация с конференции*
+* **Elijah Pris** - *Студент Бакалавриат "Промышленная электроника"* - [Elijah Pris](https://github.com/ShaanCoding/) - *Презентация с конференции*
 
 <a name="acknowledgements"></a>
 ## Acknowledgements
