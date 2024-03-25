@@ -61,9 +61,12 @@
 **Мой вклад** - 3D модель, CFD-анализ, анимация, дизайн слайда
 ![Screen Shot](images/solution-1-modeling.jpg)
 **анимация**
+
 *1*
+
 ![Animation](images/2.gif)
 *2*
+
 ![Animation](images/1.gif)
 
 <a name="solution-2"></a>
@@ -94,7 +97,11 @@
 <a name="authors"></a>
 ## Authors
 
+**Команда**
+![Screen Shot](images/team.png)
+
 * **Elijah Pris** - *Студент Бакалавриат "Промышленная электроника"* - [Elijah Pris](https://github.com/ShaanCoding/) - *Презентация с конференции*
+
 
 <a name="acknowledgements"></a>
 ## Acknowledgements
