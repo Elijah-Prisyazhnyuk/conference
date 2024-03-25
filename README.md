@@ -15,7 +15,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/Elijah-Prisyazhnyuk/сonference/total) ![Contributors](https://img.shields.io/github/contributors/Elijah-Prisyazhnyuk/сonference?color=dark-green) ![License](https://img.shields.io/github/license/Elijah-Prisyazhnyuk/сonference) 
+![Downloads](https://img.shields.io/github/downloads/Elijah-Prisyazhnyuk/Conference/total) ![Contributors](https://img.shields.io/github/contributors/Elijah-Prisyazhnyuk/Conference?color=dark-green)
 
 ## Содержание
 
@@ -100,10 +100,10 @@
 **Команда**
 ![Screen Shot](images/team.png)
 
-* **Elijah Pris** - *Студент Бакалавриат "Промышленная электроника"* - [Elijah Pris](https://github.com/ShaanCoding/) - *Презентация с конференции*
+* **Elijah Pris** - *Студент Бакалавриат "Промышленная электроника"* - [Elijah Pris](https://github.com/Elijah-Prisyazhnyuk) - *Презентация с конференции*
 
 
 <a name="acknowledgements"></a>
 ## Acknowledgements
 
-* [ElijahPris](https://github.com/ShaanCoding/)
+* [ElijahPris](https://github.com/Elijah-Prisyazhnyuk)
